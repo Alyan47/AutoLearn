@@ -1,0 +1,8 @@
+
+
+
+DB
+khowajaalyan0_db_user
+gpP94Ta8fzosnqri
+
+mongodb+srv://khowajaalyan0_db_user:gpP94Ta8fzosnqri@cluster0.n5ogoye.mongodb.net/?appName=Cluster0
